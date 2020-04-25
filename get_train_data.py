@@ -8,7 +8,7 @@ Created on Sun Feb 23 14:06:14 2020
 from jqdatasdk import *
 import csv
 
-auth('15098803876','123369qazQAZ')
+#要先认证
 stocks_all=get_margincash_stocks()
 stocks_new=[]
 
